@@ -79,8 +79,23 @@
     },
     {
       "type": "GitPageResource",
-      "id": "07dc264f-6a5c-48e8-9ea3-bd9bb7b5bc20",
-      "path": "Page/07dc264f-6a5c-48e8-9ea3-bd9bb7b5bc20.page"
+      "id": "290d63ee-723e-4f7b-b269-d57fae7fd119",
+      "path": "Page/290d63ee-723e-4f7b-b269-d57fae7fd119.page"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "b8cd48e3-59fc-4f68-a0a2-3991e67a55e8",
+      "path": "Page/b8cd48e3-59fc-4f68-a0a2-3991e67a55e8.page"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "a479765e-a38d-4280-aed5-7414a09df02c",
+      "path": "Page/a479765e-a38d-4280-aed5-7414a09df02c.page"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "9f73e2e4-77f3-4a14-82fc-3dee024d83b7",
+      "path": "Page/9f73e2e4-77f3-4a14-82fc-3dee024d83b7.page"
     }
   ],
   "environmentMappings": []

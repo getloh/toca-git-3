@@ -30,6 +30,44 @@
         "hidden": false,
         "restricted": false,
         "parameters": []
+      },
+      {
+        "id": "b96b36bc-a25b-497f-836b-4abc313c9ba1",
+        "pageId": "6a9fe814dd2674bd70de0493",
+        "pageEntityId": "9f73e2e4-77f3-4a14-82fc-3dee024d83b7",
+        "slug": "onepage",
+        "name": "onepage",
+        "hidden": false,
+        "restricted": false,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
+          }
+        ]
       }
     ],
     "dependencies": [
