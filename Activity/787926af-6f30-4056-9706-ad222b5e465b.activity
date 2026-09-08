@@ -3,7 +3,7 @@
     "id": "787926af-6f30-4056-9706-ad222b5e465b",
     "platformVersion": "10.0.0",
     "createdAt": "2026-09-08T08:48:00Z",
-    "createdBy": "2488c130-1567-4cdb-b950-fc7d8ead9001",
+    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -12,6 +12,41 @@
     "botIds": [],
     "version": 1,
     "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.1",
+        "originId": "2fbd031a-07d1-53c4-f318-3e30b9716f82",
+        "actionId": "2b7f23f9-8109-4d9e-bcd8-ba63fd34f12d",
+        "actionDefinitionActionId": "b0a9e66c-ec3e-4e5b-be76-c16cb68702fc",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022qqqqqq\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      },
       {
         "name": "Delay",
         "type": "Delay",
@@ -48,21 +83,21 @@
         "datastoreReferences": []
       },
       {
-        "name": "Debug Value",
-        "type": "Debug",
-        "version": "1.0.1",
-        "originId": "2fbd031a-07d1-53c4-f318-3e30b9716f82",
-        "actionId": "2b7f23f9-8109-4d9e-bcd8-ba63fd34f12d",
-        "actionDefinitionActionId": "b0a9e66c-ec3e-4e5b-be76-c16cb68702fc",
+        "name": "Group",
+        "type": "Group",
+        "version": "1.2.1",
+        "originId": "760eca34-8860-ff42-3e7d-924a455a396a",
+        "actionId": "2373a5af-1b4c-42d8-99ac-07d8d1493917",
+        "actionDefinitionActionId": "85dcb3cd-3aa4-44f1-aff0-32f1cdb1c9ff",
         "disabled": false,
         "created": "0001-01-01T00:00:00Z",
         "updated": "0001-01-01T00:00:00Z",
         "isDeactivated": false,
         "parameters": [
           {
-            "key": "echo",
-            "type": "String",
-            "value": "\u0022qqqqqq\u0022"
+            "key": "enableGroupInputs",
+            "type": "Boolean",
+            "value": "false"
           },
           {
             "key": "failOnError",
