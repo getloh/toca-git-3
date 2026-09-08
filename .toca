@@ -76,6 +76,11 @@
       "type": "GitActivityResource",
       "id": "8765e5db-6b02-4f4e-a1df-41d042ddf718",
       "path": "Activity/8765e5db-6b02-4f4e-a1df-41d042ddf718.activity"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "07dc264f-6a5c-48e8-9ea3-bd9bb7b5bc20",
+      "path": "Page/07dc264f-6a5c-48e8-9ea3-bd9bb7b5bc20.page"
     }
   ],
   "environmentMappings": []
