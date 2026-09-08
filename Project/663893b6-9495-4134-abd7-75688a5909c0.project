@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "id": "663893b6-9495-4134-abd7-75688a5909c0",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-08T08:48:16Z",
+    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "663893b6-9495-4134-abd7-75688a5909c0",
+    "description": "2",
+    "deactivated": false,
+    "actionGroups": [],
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "663893b6-9495-4134-abd7-75688a5909c0",
+    "name": "automationDos"
+  }
+}
