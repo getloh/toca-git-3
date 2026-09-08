@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "id": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-08T08:18:51Z",
+    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "id": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "accent": "#4d13d6",
+    "route": "toca-git-3",
+    "description": "git3",
+    "cmsEnabled": false,
+    "versioning": true,
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "name": "toca-git-3"
+  }
+}
