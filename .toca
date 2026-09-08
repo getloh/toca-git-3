@@ -54,13 +54,13 @@
     },
     {
       "type": "GitProjectResource",
-      "id": "663893b6-9495-4134-abd7-75688a5909c0",
-      "path": "Project/663893b6-9495-4134-abd7-75688a5909c0.project"
+      "id": "3aacca6b-3bf3-4e73-9af6-24143587baf1",
+      "path": "Project/3aacca6b-3bf3-4e73-9af6-24143587baf1.project"
     },
     {
       "type": "GitActivityResource",
-      "id": "9584c231-8a94-47b7-872e-355c8391c6fa",
-      "path": "Activity/9584c231-8a94-47b7-872e-355c8391c6fa.activity"
+      "id": "787926af-6f30-4056-9706-ad222b5e465b",
+      "path": "Activity/787926af-6f30-4056-9706-ad222b5e465b.activity"
     }
   ],
   "environmentMappings": []

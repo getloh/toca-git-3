@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "id": "787926af-6f30-4056-9706-ad222b5e465b",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-08T08:48:00Z",
+    "createdBy": "2488c130-1567-4cdb-b950-fc7d8ead9001",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "3aacca6b-3bf3-4e73-9af6-24143587baf1",
+    "description": "1",
+    "botIds": [],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "787926af-6f30-4056-9706-ad222b5e465b",
+    "name": "hip hop"
+  }
+}
