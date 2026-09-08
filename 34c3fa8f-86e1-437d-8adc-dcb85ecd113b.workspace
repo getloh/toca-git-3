@@ -13,6 +13,7 @@
     "description": "git3",
     "cmsEnabled": false,
     "versioning": true,
+    "repositoryUrl": "https://github.com/getloh/toca-git-3.git",
     "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
     "resourceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
     "name": "toca-git-3"

@@ -1,4 +1,12 @@
 {
   "version": 1,
-  "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b"
+  "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+  "resources": [
+    {
+      "type": "GitWorkspaceResource",
+      "id": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+      "path": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b.workspace"
+    }
+  ],
+  "environmentMappings": []
 }
