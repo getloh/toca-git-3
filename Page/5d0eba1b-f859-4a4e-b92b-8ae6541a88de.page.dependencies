@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "actionDetails": [],
+    "componentDetails": [
+      {
+        "definitionId": "09e81fb3-2102-4f65-94f9-b710ce98facf",
+        "name": "Flex Layout",
+        "version": "0.0.5"
+      },
+      {
+        "definitionId": "10ed2773-e7bc-4432-8aec-7f948357c438",
+        "name": "Text",
+        "version": "0.0.7"
+      },
+      {
+        "definitionId": "060a1741-18b8-47ae-886d-857dabfba1d7",
+        "name": "Responsive Grid",
+        "version": "0.0.2"
+      }
+    ],
+    "appActionsDetails": []
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "id": "347b9476-7e92-40fc-abab-28460249e10d",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-08T08:23:41Z",
+    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "uuid": "347b9476-7e92-40fc-abab-28460249e10d",
+    "description": "1",
+    "datastoreType": "Internal",
+    "datastoreParameters": [
+      {
+        "datastoreId": "347b9476-7e92-40fc-abab-28460249e10d",
+        "uuid": "01a0801e-45ce-70fc-ab3b-38d894d6c479",
+        "key": "customers_10000",
+        "type": "TableV3",
+        "value": "01a0801e-45ce-70fc-ab3b-38d894d6c479",
+        "revision": "01a0801e-45d5-74e1-b7d3-984dfcb4e748"
+      },
+      {
+        "datastoreId": "347b9476-7e92-40fc-abab-28460249e10d",
+        "uuid": "01a0801d-a3ea-71b7-aab1-ae70676889f6",
+        "key": "fileDrive",
+        "type": "FilesLocator",
+        "value": "{\u0022type\u0022:\u0022ObjectStore\u0022}",
+        "revision": "01a0801d-a3eb-74e7-b725-21e5992b12e1"
+      }
+    ],
+    "tables": [
+      {
+        "id": "01a0801e-45ce-70fc-ab3b-38d894d6c479",
+        "name": "customers_10000",
+        "datastoreParameterId": "01a0801e-45ce-70fc-ab3b-38d894d6c479",
+        "model": {
+          "id": {
+            "name": "id",
+            "label": "Id",
+            "type": "uuid",
+            "isPrimaryKey": true,
+            "constraints": {
+              "isUnique": true,
+              "isNotNull": true,
+              "dataType": "Uuid"
+            }
+          },
+          "index": {
+            "name": "index",
+            "label": "Index",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "customer_Id": {
+            "name": "customer_Id",
+            "label": "Customer Id",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "first_Name": {
+            "name": "first_Name",
+            "label": "First Name",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "last_Name": {
+            "name": "last_Name",
+            "label": "Last Name",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "company": {
+            "name": "company",
+            "label": "Company",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "city": {
+            "name": "city",
+            "label": "City",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "country": {
+            "name": "country",
+            "label": "Country",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "phone_1": {
+            "name": "phone_1",
+            "label": "Phone 1",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "phone_2": {
+            "name": "phone_2",
+            "label": "Phone 2",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "email": {
+            "name": "email",
+            "label": "Email",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "subscription_Date": {
+            "name": "subscription_Date",
+            "label": "Subscription Date",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "website": {
+            "name": "website",
+            "label": "Website",
+            "type": "String",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          }
+        },
+        "relationships": [],
+        "selectQuery": "SELECT c.\u0060city\u0060 AS \u0027c.city\u0027,c.\u0060company\u0060 AS \u0027c.company\u0027,c.\u0060country\u0060 AS \u0027c.country\u0027,c.\u0060customer_Id\u0060 AS \u0027c.customer_Id\u0027,c.\u0060email\u0060 AS \u0027c.email\u0027,c.\u0060first_Name\u0060 AS \u0027c.first_Name\u0027,c.\u0060id\u0060 AS \u0027c.id\u0027,c.\u0060index\u0060 AS \u0027c.index\u0027,c.\u0060last_Name\u0060 AS \u0027c.last_Name\u0027,c.\u0060phone_1\u0060 AS \u0027c.phone_1\u0027,c.\u0060phone_2\u0060 AS \u0027c.phone_2\u0027,c.\u0060subscription_Date\u0060 AS \u0027c.subscription_Date\u0027,c.\u0060website\u0060 AS \u0027c.website\u0027 FROM \u006001a0801e-45ce-70fc-ab3b-38d894d6c479\u0060 c",
+        "nonRecursiveSelectQuery": "SELECT c.* FROM \u006001a0801e-45ce-70fc-ab3b-38d894d6c479\u0060 c ",
+        "indexes": [
+          {
+            "name": "PRIMARY",
+            "columns": {
+              "id": "Ascending"
+            },
+            "unique": true,
+            "type": "BTree"
+          }
+        ],
+        "revision": "01a0801e-466e-7447-ac4c-f1feddad125d"
+      }
+    ],
+    "tableMigrations": [],
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "347b9476-7e92-40fc-abab-28460249e10d",
+    "name": "datastoreUno"
+  }
+}

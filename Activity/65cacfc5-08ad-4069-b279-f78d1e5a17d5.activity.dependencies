@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "actionDetails": [
+      {
+        "definitionId": "87da816c-f552-4371-bc3e-6b2b7f55f2d6",
+        "name": "Equation",
+        "version": "1.0.5"
+      }
+    ],
+    "componentDetails": [],
+    "appActionsDetails": []
+  }
+}

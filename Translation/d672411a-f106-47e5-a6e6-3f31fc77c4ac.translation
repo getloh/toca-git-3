@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "id": "d672411a-f106-47e5-a6e6-3f31fc77c4ac",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-08T08:25:40Z",
+    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "translationId": "d672411a-f106-47e5-a6e6-3f31fc77c4ac",
+    "appId": "6a9fc6679f7452243f3bb401",
+    "translations": {
+      "text_Gbfb_value_0": {
+        "updated": "2026-09-08T08:25:47Z",
+        "values": {
+          "en": "Frequently asked questions",
+          "fr": "Questions fr\u00E9quemment pos\u00E9es"
+        }
+      },
+      "text_yvXB_value_0": {
+        "updated": "2026-09-08T08:25:47Z",
+        "values": {
+          "en": "My item hasn\u0027t arrived yet",
+          "fr": "Mon article n\u0027est pas encore arriv\u00E9"
+        }
+      },
+      "text_yvXB_value_1": {
+        "updated": "2026-09-08T08:25:48Z",
+        "values": {
+          "en": "Curae laoreet aenean lacinia torquent lacus. Rutrum lorem feugiat laoreet ultrices massa nulla tincidunt viverra. Erat donec iaculis auctor malesuada vitae est molestie varius sed?",
+          "fr": "Curae laoree \u00E0 l\u0027\u00E9poque lacin\u00E9e torquent lacus. Rutrum lorem feugi\u00E9 laoree ultrasures masse nul tincidunt de viver. Erat don iaculis auctor malesuada vitae est molestie varius sed?"
+        }
+      },
+      "text_RccI_value_0": {
+        "updated": "2026-09-08T08:25:48Z",
+        "values": {
+          "en": "My item was damaged in transit",
+          "fr": "Mon article a \u00E9t\u00E9 endommag\u00E9 dans le transit"
+        }
+      },
+      "text_RccI_value_1": {
+        "updated": "2026-09-08T08:25:49Z",
+        "values": {
+          "en": "Ullamcorper diam magnis sapien egestas cursus ornare. Litora habitant nibh enim scelerisque pretium diam. Id at molestie curae pretium volutpat tempus rhoncus.",
+          "fr": "C\u0027est un peu plus grand que l\u0027un de ces derniers. L\u0027un de ces derniers est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre. L\u0027autre est le cas de l\u0027autre."
+        }
+      },
+      "text_uRUD_value_0": {
+        "updated": "2026-09-08T08:25:49Z",
+        "values": {
+          "en": "My mailman is holding my package ransom",
+          "fr": "Mon mailman d\u00E9tient mon paquet de ransomware"
+        }
+      },
+      "text_uRUD_value_1": {
+        "updated": "2026-09-08T08:25:50Z",
+        "values": {
+          "en": "Curae ornare mus curabitur inceptos tristique. Habitant sapien auctor sem adipiscing cras. Mi quam accumsan etiam egestas massa torquent consequat gravida.",
+          "fr": "Curae ornaire mus curabitur inceptes tristiques. Habitant sapien aucteur sans adipiscing cras. Mi quam accumsan etiam egestas masse torquent cons\u00E9quat enceinte."
+        }
+      },
+      "text_DOvF_value_0": {
+        "updated": "2026-09-08T08:25:50Z",
+        "values": {
+          "en": "I changed my mind, can I return my item?",
+          "fr": "J\u0027ai chang\u00E9 d\u0027avis, puis-je retourner mon article ?"
+        }
+      },
+      "text_DOvF_value_1": {
+        "updated": "2026-09-08T08:25:51Z",
+        "values": {
+          "en": "Maecenas orci finibus etiam; augue nisl natoque justo diam suspendisse. Sodales taciti fermentum congue sagittis ante ipsum. Nulla ornare turpis malesuada accumsan pulvinar quisque arcu? Tortor lorem habitant quis molestie congue donec nam hendrerit.",
+          "fr": "Il s\u2019agit d\u2019une grande partie de l\u2019\u00E9conomie de l\u2019Union europ\u00E9enne et de l\u2019Union europ\u00E9enne de l\u2019Union europ\u00E9enne et de l\u2019Union europ\u00E9enne de l\u2019Union europ\u00E9enne (UE) et de l\u2019Union europ\u00E9enne (UE) et de l\u2019Union europ\u00E9enne (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE) (UE)"
+        }
+      },
+      "text_HsNI_value_0": {
+        "updated": "2026-09-08T08:25:51Z",
+        "values": {
+          "en": "Why am I being charged import tax?",
+          "fr": "Pourquoi suis-je charg\u00E9 d\u2019imp\u00F4t sur l\u2019importation ?"
+        }
+      },
+      "text_HsNI_value_1": {
+        "updated": "2026-09-08T08:25:52Z",
+        "values": {
+          "en": "In himenaeos fringilla suspendisse quam ligula himenaeos nostra. Eu sit vulputate commodo fringilla auctor nascetur odio blandit.",
+          "fr": "En hymenaeos fringilla suspendisse quam ligula himenaeos nostra. Je sit vulputate commodo fringilla auctor nascetur haide blandit."
+        }
+      },
+      "text_IIpn_value_0": {
+        "updated": "2026-09-08T08:25:52Z",
+        "values": {
+          "en": "Are there online instruction manuals I can download?",
+          "fr": "Y a-t-il des manuels d\u0027instruction en ligne que je peux t\u00E9l\u00E9charger ?"
+        }
+      },
+      "text_IIpn_value_1": {
+        "updated": "2026-09-08T08:25:53Z",
+        "values": {
+          "en": "Finibus non iaculis platea dis hendrerit. Per hac urna hac leo phasellus fames tincidunt. Est habitasse potenti pellentesque duis; pretium in fames ad pellentesque. ",
+          "fr": "Finibus non iaculis platea dis hendrerit. Pour hac urna hac leo phasellus fames tincidunt. Il habitait puissants pellentesque duis; pretium in fames ad pellentesque."
+        }
+      }
+    },
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "d672411a-f106-47e5-a6e6-3f31fc77c4ac",
+    "name": "Home"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "id": "63b6f861-e676-4c6b-8624-6311cc14f67b",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-08T08:25:41Z",
+    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "translationId": "63b6f861-e676-4c6b-8624-6311cc14f67b",
+    "appId": "6a9fc6679f7452243f3bb401",
+    "translations": {
+      "text_oMqT_value_0": {
+        "updated": "2026-09-08T08:25:39Z",
+        "values": {
+          "en": "My Account"
+        }
+      },
+      "text_oTWZ_value_0_0": {
+        "updated": "2026-09-08T08:25:39Z",
+        "values": {
+          "en": "Groups: "
+        }
+      },
+      "show_Advanced_Button_label_[0]": {
+        "updated": "2026-09-08T08:25:39Z",
+        "values": {
+          "en": "Show Advanced"
+        }
+      },
+      "text_kVFZ_value_0_0": {
+        "updated": "2026-09-08T08:25:39Z",
+        "values": {
+          "en": "User ID: "
+        }
+      },
+      "text_kVFZ_value_1_0": {
+        "updated": "2026-09-08T08:25:39Z",
+        "values": {
+          "en": "Name: "
+        }
+      },
+      "text_sPlL_value_0": {
+        "updated": "2026-09-08T08:25:39Z",
+        "values": {
+          "en": "Reset Password"
+        }
+      },
+      "text Field_xbqa_label_[0]": {
+        "updated": "2026-09-08T08:25:39Z",
+        "values": {
+          "en": "Old Password"
+        }
+      },
+      "text Field_pSuT_label_[0]": {
+        "updated": "2026-09-08T08:25:39Z",
+        "values": {
+          "en": "New Password"
+        }
+      },
+      "text Field_gDCP_label_[0]": {
+        "updated": "2026-09-08T08:25:39Z",
+        "values": {
+          "en": "Confirm New Password"
+        }
+      },
+      "submit Button_VsSX_label_[0]": {
+        "updated": "2026-09-08T08:25:39Z",
+        "values": {
+          "en": "Change Password"
+        }
+      }
+    },
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "63b6f861-e676-4c6b-8624-6311cc14f67b",
+    "name": "My Account"
+  }
+}
