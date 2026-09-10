@@ -16,6 +16,11 @@
         "definitionId": "060a1741-18b8-47ae-886d-857dabfba1d7",
         "name": "Responsive Grid",
         "version": "0.0.2"
+      },
+      {
+        "definitionId": "04d449e8-2206-4659-8337-40c3192f2be9",
+        "name": "Button",
+        "version": "0.0.6"
       }
     ],
     "appActionsDetails": []
