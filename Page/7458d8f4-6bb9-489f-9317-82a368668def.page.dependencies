@@ -16,6 +16,11 @@
         "definitionId": "2a5d602c-9258-4428-8c18-203f9185d7ce",
         "name": "Text",
         "version": "0.0.9"
+      },
+      {
+        "definitionId": "a4384348-3d00-4548-80c0-ba210bdf1242",
+        "name": "Custom Button",
+        "version": "0.1.1"
       }
     ],
     "appActionsDetails": []
