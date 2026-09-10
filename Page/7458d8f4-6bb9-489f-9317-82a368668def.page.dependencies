@@ -11,6 +11,11 @@
         "definitionId": "000fb580-28fa-4798-a568-504aef84b5d2",
         "name": "Card",
         "version": "0.0.5"
+      },
+      {
+        "definitionId": "2a5d602c-9258-4428-8c18-203f9185d7ce",
+        "name": "Text",
+        "version": "0.0.9"
       }
     ],
     "appActionsDetails": []
