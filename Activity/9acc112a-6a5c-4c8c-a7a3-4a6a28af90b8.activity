@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "id": "9acc112a-6a5c-4c8c-a7a3-4a6a28af90b8",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-10T09:37:37Z",
+    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "3aacca6b-3bf3-4e73-9af6-24143587baf1",
+    "description": "111",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Delay",
+        "type": "Delay",
+        "version": "1.0.1",
+        "originId": "f36d9bfd-bccd-353d-b9a3-e634d9ecba37",
+        "actionId": "ef7f67d4-1f51-4f88-b4cb-9b5e1ed8f0a7",
+        "actionDefinitionActionId": "4afc0589-d3bf-49d3-80e3-240be2146dcf",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "delay",
+            "type": "Number",
+            "value": "0"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      },
+      {
+        "name": "i hope this will be gone",
+        "type": "Group",
+        "version": "1.2.1",
+        "originId": "760eca34-8860-ff42-3e7d-924a455a396a",
+        "actionId": "98d3127c-a4b1-4113-869e-760f16b30f87",
+        "actionDefinitionActionId": "85dcb3cd-3aa4-44f1-aff0-32f1cdb1c9ff",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "enableGroupInputs",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "9acc112a-6a5c-4c8c-a7a3-4a6a28af90b8",
+    "name": "shouldbedeleted"
+  }
+}
