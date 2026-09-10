@@ -38,7 +38,7 @@
         "slug": "fast-forward",
         "name": "fastForward",
         "hidden": false,
-        "restricted": true,
+        "restricted": false,
         "parameters": [
           {
             "key": "modalFullHeight",
@@ -65,7 +65,8 @@
           },
           {
             "key": "modalTitle",
-            "type": "boolean"
+            "type": "boolean",
+            "value": "true"
           }
         ]
       }
