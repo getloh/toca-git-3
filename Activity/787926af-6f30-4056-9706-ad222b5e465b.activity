@@ -3,7 +3,7 @@
     "id": "787926af-6f30-4056-9706-ad222b5e465b",
     "platformVersion": "10.0.0",
     "createdAt": "2026-09-08T08:48:00Z",
-    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
+    "createdBy": "2488c130-1567-4cdb-b950-fc7d8ead9001",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -83,21 +83,31 @@
         "datastoreReferences": []
       },
       {
-        "name": "Group",
-        "type": "Group",
-        "version": "1.2.1",
-        "originId": "760eca34-8860-ff42-3e7d-924a455a396a",
-        "actionId": "2373a5af-1b4c-42d8-99ac-07d8d1493917",
-        "actionDefinitionActionId": "85dcb3cd-3aa4-44f1-aff0-32f1cdb1c9ff",
+        "name": "Equation",
+        "type": "MathsFunction",
+        "version": "1.0.5",
+        "originId": "78c904a6-3974-60e4-6ba6-fbfdcb0a645e",
+        "actionId": "0bcf8f93-3634-411e-8fbc-618ac265d799",
+        "actionDefinitionActionId": "87da816c-f552-4371-bc3e-6b2b7f55f2d6",
         "disabled": false,
         "created": "0001-01-01T00:00:00Z",
         "updated": "0001-01-01T00:00:00Z",
         "isDeactivated": false,
         "parameters": [
           {
-            "key": "enableGroupInputs",
+            "key": "equation",
+            "type": "String",
+            "value": "\u00221\u002B1\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "-1"
+          },
+          {
+            "key": "errorOnTimeout",
             "type": "Boolean",
-            "value": "false"
+            "value": "true"
           },
           {
             "key": "failOnError",

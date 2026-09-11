@@ -2,8 +2,8 @@
   "metadata": {
     "id": "347b9476-7e92-40fc-abab-28460249e10d",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-09-08T08:23:41Z",
-    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
+    "createdAt": "2026-09-11T15:16:00Z",
+    "createdBy": "2488c130-1567-4cdb-b950-fc7d8ead9001",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -25,7 +25,15 @@
         "key": "fileDrive",
         "type": "FilesLocator",
         "value": "{\u0022type\u0022:\u0022ObjectStore\u0022}",
-        "revision": "01a0801d-a3eb-74e7-b725-21e5992b12e1"
+        "revision": "1d11b097-ab60-11f1-9dba-1e66629b2a7b"
+      },
+      {
+        "datastoreId": "347b9476-7e92-40fc-abab-28460249e10d",
+        "uuid": "01a0910a-341d-7646-b3e6-61253b151897",
+        "key": "newvar",
+        "type": "String",
+        "value": "one",
+        "revision": "01a0910a-341d-7647-b30f-752b98063c9d"
       }
     ],
     "tables": [
@@ -191,6 +199,7 @@
             "type": "BTree"
           }
         ],
+        "position": [],
         "revision": "01a0801e-466e-7447-ac4c-f1feddad125d"
       }
     ],

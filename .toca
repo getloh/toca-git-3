@@ -121,6 +121,11 @@
       "type": "GitPageResource",
       "id": "cccb530e-5376-4597-9119-78a29b589d84",
       "path": "Page/cccb530e-5376-4597-9119-78a29b589d84.page"
+    },
+    {
+      "type": "GitWorkflowResource",
+      "id": "7a62ca85-b4da-44a9-9c7c-aeb019b56365",
+      "path": "Workflow/7a62ca85-b4da-44a9-9c7c-aeb019b56365.workflow"
     }
   ],
   "environmentMappings": []
