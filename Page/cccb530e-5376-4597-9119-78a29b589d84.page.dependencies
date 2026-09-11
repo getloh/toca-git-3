@@ -36,6 +36,11 @@
         "definitionId": "ebb7da6a-c638-42c0-84b5-aeec4b4043ec",
         "name": "Link Button",
         "version": "0.0.5"
+      },
+      {
+        "definitionId": "418c0392-ccb9-447d-bfa0-51d82f163b8d",
+        "name": "Custom Button",
+        "version": "0.0.1"
       }
     ],
     "appActionsDetails": []
