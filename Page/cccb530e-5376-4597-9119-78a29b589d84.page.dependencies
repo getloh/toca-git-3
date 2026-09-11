@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "actionDetails": [],
+    "componentDetails": [
+      {
+        "definitionId": "056f72ab-594c-427c-9675-ebaa0b861550",
+        "name": "Flex Layout",
+        "version": "0.0.4"
+      },
+      {
+        "definitionId": "bc7cccfb-4355-4bec-9155-be8f6068e1cb",
+        "name": "Image",
+        "version": "0.0.5"
+      },
+      {
+        "definitionId": "ce4cd650-48f2-4158-b9db-bb3120ce5bf9",
+        "name": "Text",
+        "version": "0.0.4"
+      },
+      {
+        "definitionId": "09e81fb3-2102-4f65-94f9-b710ce98facf",
+        "name": "Flex Layout",
+        "version": "0.0.5"
+      },
+      {
+        "definitionId": "53c63448-2dd7-4133-a95f-dc7d1d0c900d",
+        "name": "Image",
+        "version": "0.0.8"
+      },
+      {
+        "definitionId": "10ed2773-e7bc-4432-8aec-7f948357c438",
+        "name": "Text",
+        "version": "0.0.7"
+      },
+      {
+        "definitionId": "ebb7da6a-c638-42c0-84b5-aeec4b4043ec",
+        "name": "Link Button",
+        "version": "0.0.5"
+      }
+    ],
+    "appActionsDetails": []
+  }
+}
