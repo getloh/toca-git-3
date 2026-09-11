@@ -30,6 +30,45 @@
         "hidden": false,
         "restricted": false,
         "parameters": []
+      },
+      {
+        "id": "f4fdce27-4ffa-401b-b2f7-54190f29f488",
+        "pageId": "6aa265caf17a737587ab0f27",
+        "pageEntityId": "7458d8f4-6bb9-489f-9317-82a368668def",
+        "slug": "fast-forward",
+        "name": "fastForward",
+        "hidden": false,
+        "restricted": false,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean",
+            "value": "true"
+          }
+        ]
       }
     ],
     "dependencies": [

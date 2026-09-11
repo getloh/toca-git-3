@@ -52,7 +52,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           },
           "customer_Id": {
@@ -62,7 +63,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           },
           "first_Name": {
@@ -72,7 +74,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           },
           "last_Name": {
@@ -82,7 +85,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           },
           "company": {
@@ -92,7 +96,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           },
           "city": {
@@ -102,7 +107,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           },
           "country": {
@@ -112,7 +118,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           },
           "phone_1": {
@@ -122,7 +129,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           },
           "phone_2": {
@@ -132,7 +140,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           },
           "email": {
@@ -142,7 +151,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           },
           "subscription_Date": {
@@ -152,7 +162,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           },
           "website": {
@@ -162,7 +173,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           }
         },

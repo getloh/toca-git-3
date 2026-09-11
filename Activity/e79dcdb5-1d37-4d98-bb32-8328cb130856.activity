@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "id": "e79dcdb5-1d37-4d98-bb32-8328cb130856",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-10T09:44:53Z",
+    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "663893b6-9495-4134-abd7-75688a5909c0",
+    "description": "222",
+    "botIds": [],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "e79dcdb5-1d37-4d98-bb32-8328cb130856",
+    "name": "happy to be overwritten"
+  }
+}
