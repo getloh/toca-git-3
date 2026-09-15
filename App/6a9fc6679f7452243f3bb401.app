@@ -32,11 +32,11 @@
         "parameters": []
       },
       {
-        "id": "f4fdce27-4ffa-401b-b2f7-54190f29f488",
-        "pageId": "6aa265caf17a737587ab0f27",
-        "pageEntityId": "7458d8f4-6bb9-489f-9317-82a368668def",
-        "slug": "fast-forward",
-        "name": "fastForward",
+        "id": "b96b36bc-a25b-497f-836b-4abc313c9ba1",
+        "pageId": "6a9fe814dd2674bd70de0493",
+        "pageEntityId": "9f73e2e4-77f3-4a14-82fc-3dee024d83b7",
+        "slug": "onepage",
+        "name": "onepage",
         "hidden": false,
         "restricted": false,
         "parameters": [
@@ -65,8 +65,7 @@
           },
           {
             "key": "modalTitle",
-            "type": "boolean",
-            "value": "true"
+            "type": "boolean"
           }
         ]
       }

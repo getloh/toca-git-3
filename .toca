@@ -79,53 +79,33 @@
     },
     {
       "type": "GitPageResource",
-      "id": "07dc264f-6a5c-48e8-9ea3-bd9bb7b5bc20",
-      "path": "Page/07dc264f-6a5c-48e8-9ea3-bd9bb7b5bc20.page"
+      "id": "290d63ee-723e-4f7b-b269-d57fae7fd119",
+      "path": "Page/290d63ee-723e-4f7b-b269-d57fae7fd119.page"
     },
     {
       "type": "GitPageResource",
-      "id": "7458d8f4-6bb9-489f-9317-82a368668def",
-      "path": "Page/7458d8f4-6bb9-489f-9317-82a368668def.page"
-    },
-    {
-      "type": "GitActivityResource",
-      "id": "9acc112a-6a5c-4c8c-a7a3-4a6a28af90b8",
-      "path": "Activity/9acc112a-6a5c-4c8c-a7a3-4a6a28af90b8.activity"
-    },
-    {
-      "type": "GitActivityResource",
-      "id": "e79dcdb5-1d37-4d98-bb32-8328cb130856",
-      "path": "Activity/e79dcdb5-1d37-4d98-bb32-8328cb130856.activity"
-    },
-    {
-      "type": "GitActivityResource",
-      "id": "1ff41fc3-b20e-4c26-a083-5afcb543a66e",
-      "path": "Activity/1ff41fc3-b20e-4c26-a083-5afcb543a66e.activity"
+      "id": "b8cd48e3-59fc-4f68-a0a2-3991e67a55e8",
+      "path": "Page/b8cd48e3-59fc-4f68-a0a2-3991e67a55e8.page"
     },
     {
       "type": "GitPageResource",
-      "id": "0fc0c95d-31d8-4933-82a3-32662af938d4",
-      "path": "Page/0fc0c95d-31d8-4933-82a3-32662af938d4.page"
+      "id": "a479765e-a38d-4280-aed5-7414a09df02c",
+      "path": "Page/a479765e-a38d-4280-aed5-7414a09df02c.page"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "9f73e2e4-77f3-4a14-82fc-3dee024d83b7",
+      "path": "Page/9f73e2e4-77f3-4a14-82fc-3dee024d83b7.page"
     },
     {
       "type": "GitAppResource",
-      "id": "6aa415f7fe569adaf3027d48",
-      "path": "App/6aa415f7fe569adaf3027d48.app"
+      "id": "6aa9687a3611740b4e66a13d",
+      "path": "App/6aa9687a3611740b4e66a13d.app"
     },
     {
       "type": "GitPageResource",
-      "id": "d1e7234a-1410-46eb-90cf-ae3ed3c96c62",
-      "path": "Page/d1e7234a-1410-46eb-90cf-ae3ed3c96c62.page"
-    },
-    {
-      "type": "GitPageResource",
-      "id": "cccb530e-5376-4597-9119-78a29b589d84",
-      "path": "Page/cccb530e-5376-4597-9119-78a29b589d84.page"
-    },
-    {
-      "type": "GitWorkflowResource",
-      "id": "7a62ca85-b4da-44a9-9c7c-aeb019b56365",
-      "path": "Workflow/7a62ca85-b4da-44a9-9c7c-aeb019b56365.workflow"
+      "id": "0a9f6c66-f6ea-4564-a964-0340ccece18c",
+      "path": "Page/0a9f6c66-f6ea-4564-a964-0340ccece18c.page"
     }
   ],
   "environmentMappings": []
