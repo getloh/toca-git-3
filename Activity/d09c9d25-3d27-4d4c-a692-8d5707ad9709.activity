@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "id": "d09c9d25-3d27-4d4c-a692-8d5707ad9709",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-16T09:17:35Z",
+    "createdBy": "9fffc4dd-371d-4aeb-8a21-f8f05bf10f7d",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "39781592-3fbf-4775-b257-4f5eabf291b6",
+    "description": "2",
+    "botIds": [],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "d09c9d25-3d27-4d4c-a692-8d5707ad9709",
+    "name": "secondOne (copy)"
+  }
+}

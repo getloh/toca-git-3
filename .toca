@@ -126,6 +126,11 @@
       "type": "GitWorkflowResource",
       "id": "7a62ca85-b4da-44a9-9c7c-aeb019b56365",
       "path": "Workflow/7a62ca85-b4da-44a9-9c7c-aeb019b56365.workflow"
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "d09c9d25-3d27-4d4c-a692-8d5707ad9709",
+      "path": "Activity/d09c9d25-3d27-4d4c-a692-8d5707ad9709.activity"
     }
   ],
   "environmentMappings": []
