@@ -1,20 +1,18 @@
 {
   "metadata": {
-    "id": "6aa415f7fe569adaf3027d48",
+    "id": "6aabb9d43611740b4e66a352",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-09-11T14:53:43Z",
-    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
     "schemaVersion": "1.0.0"
   },
   "content": {
-    "appId": "6aa415f7fe569adaf3027d48",
-    "rootSlug": "aware-gossip-1941",
-    "description": "",
+    "appId": "6aabb9d43611740b4e66a352",
+    "rootSlug": "orderly-normal-6094",
+    "description": "1",
     "pages": [
       {
-        "id": "28a02989-42af-4366-8d15-a3db723ef0ea",
-        "pageId": "6aa415f8fe569adaf3027d49",
-        "pageEntityId": "d1e7234a-1410-46eb-90cf-ae3ed3c96c62",
+        "id": "42033c12-3e80-44af-a0f9-c66a55ba6925",
+        "pageId": "6aabb9d43611740b4e66a353",
+        "pageEntityId": "6ffaf24d-82b1-4432-a31a-cd84e6f02be7",
         "slug": "",
         "name": "Home",
         "hidden": false,
@@ -22,11 +20,49 @@
         "parameters": []
       },
       {
-        "id": "67233f98-8ec9-4117-8827-22d3ebf36f6e",
-        "pageId": "6aa416befe569adaf3027d4a",
-        "pageEntityId": "cccb530e-5376-4597-9119-78a29b589d84",
-        "slug": "qwe",
-        "name": "qwe",
+        "id": "b19e5ab1-3960-45fa-ae6a-2093b4a57919",
+        "pageId": "6aabb9db3611740b4e66a354",
+        "pageEntityId": "996246af-77b3-4498-9dae-279f964bbeab",
+        "slug": "dtpicker",
+        "name": "dtpicker",
+        "hidden": false,
+        "restricted": false,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
+          }
+        ]
+      },
+      {
+        "id": "d2d0f7d3-e3eb-4c0a-8163-ae577f63c306",
+        "pageId": "6aabdc71300cf6dd94d557ac",
+        "pageEntityId": "43124afd-fac7-40a9-bcac-79ffef0a7041",
+        "slug": "blocktest",
+        "name": "blocktest",
         "hidden": false,
         "restricted": false,
         "parameters": [
@@ -121,7 +157,7 @@
     "deleted": false,
     "demoable": false,
     "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
-    "resourceId": "6aa415f7fe569adaf3027d48",
-    "name": "applicat3"
+    "resourceId": "6aabb9d43611740b4e66a352",
+    "name": "10-2-uqu"
   }
 }

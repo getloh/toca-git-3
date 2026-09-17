@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "actionDetails": [],
+    "componentDetails": [
+      {
+        "definitionId": "c86e9279-7213-4e99-9646-c65f9c98b9ca",
+        "name": "Flex Layout",
+        "version": "0.0.6"
+      },
+      {
+        "definitionId": "cfe16000-b20d-488e-b9a6-17e3123cbf36",
+        "name": "Form Layout",
+        "version": "1.3.2"
+      },
+      {
+        "definitionId": "2a5d602c-9258-4428-8c18-203f9185d7ce",
+        "name": "Text",
+        "version": "0.0.9"
+      },
+      {
+        "definitionId": "8d07b4ba-8ef8-44be-b24b-4b5d1fcb70bf",
+        "name": "Date and Time picker",
+        "version": "1.0.2"
+      }
+    ],
+    "appActionsDetails": []
+  }
+}
