@@ -3,31 +3,168 @@
     "id": "787926af-6f30-4056-9706-ad222b5e465b",
     "platformVersion": "10.0.0",
     "createdAt": "2026-09-08T08:48:00Z",
-    "createdBy": "2488c130-1567-4cdb-b950-fc7d8ead9001",
+    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
     "schemaVersion": "1.0.0"
   },
   "content": {
     "projectId": "3aacca6b-3bf3-4e73-9af6-24143587baf1",
     "description": "1",
-    "botIds": [],
+    "botIds": [
+      "alias:bot-Beta-Bot-0002"
+    ],
     "version": 1,
     "actions": [
       {
-        "name": "Debug Value",
-        "type": "Debug",
-        "version": "1.0.1",
-        "originId": "2fbd031a-07d1-53c4-f318-3e30b9716f82",
-        "actionId": "2b7f23f9-8109-4d9e-bcd8-ba63fd34f12d",
-        "actionDefinitionActionId": "b0a9e66c-ec3e-4e5b-be76-c16cb68702fc",
+        "name": "Open Browser",
+        "type": "BrowserCombo",
+        "version": "1.0.5",
+        "originId": "ab7eaad2-9fd8-274c-7787-ec160074260c",
+        "actionId": "fb21f50d-8a3e-4f72-9a66-13cfa26897e1",
+        "actionDefinitionActionId": "8166ba31-6b9c-4838-a5a9-acf679684e62",
         "disabled": false,
         "created": "0001-01-01T00:00:00Z",
         "updated": "0001-01-01T00:00:00Z",
         "isDeactivated": false,
         "parameters": [
           {
-            "key": "echo",
+            "key": "browserType",
             "type": "String",
-            "value": "\u0022qqqqqq\u0022"
+            "value": "\u0022Chrome\u0022"
+          },
+          {
+            "key": "url",
+            "type": "String",
+            "value": "\u0022https://google.com\u0022"
+          },
+          {
+            "key": "browserAlias",
+            "type": "String",
+            "value": "\u0022swag\u0022"
+          },
+          {
+            "key": "maximize",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "focusBrowser",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "continueWithoutWait",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "extension",
+            "type": "String",
+            "value": "\u0022\u0022"
+          },
+          {
+            "key": "alertManagement",
+            "type": "String",
+            "value": "\u0022accept\u0022"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      },
+      {
+        "name": "Delay",
+        "type": "Delay",
+        "version": "1.0.1",
+        "originId": "f36d9bfd-bccd-353d-b9a3-e634d9ecba37",
+        "actionId": "13f5703b-6199-4259-93ef-88214ceccfef",
+        "actionDefinitionActionId": "4afc0589-d3bf-49d3-80e3-240be2146dcf",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "delay",
+            "type": "Number",
+            "value": "10000"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      },
+      {
+        "name": "Go to URL in Browser",
+        "type": "BrowserGotoURL",
+        "version": "1.0.3",
+        "originId": "36927114-b44b-d126-0861-cbfc04297488",
+        "actionId": "f7c70c88-3d23-4a50-ba87-06ee04ced7d7",
+        "actionDefinitionActionId": "1e5bdeed-5b17-4f60-8541-b21a7ef2caf6",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "url",
+            "type": "String",
+            "value": "\u0022https://reddit.com\u0022"
+          },
+          {
+            "key": "browserAlias",
+            "type": "String",
+            "value": "\u0022swag\u0022"
+          },
+          {
+            "key": "focusBrowser",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "false"
           },
           {
             "key": "failOnError",
@@ -62,7 +199,7 @@
           {
             "key": "delay",
             "type": "Number",
-            "value": "0"
+            "value": "2"
           },
           {
             "key": "failOnError",
@@ -113,6 +250,201 @@
             "key": "failOnError",
             "type": "Boolean",
             "value": "true"
+          },
+          {
+            "key": "ui:expanded",
+            "type": "Boolean",
+            "value": "false"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      },
+      {
+        "name": "Equation",
+        "type": "MathsFunction",
+        "version": "1.0.5",
+        "originId": "78c904a6-3974-60e4-6ba6-fbfdcb0a645e",
+        "actionId": "1ff6ce7d-ea63-4403-a96c-ea47724cbf95",
+        "actionDefinitionActionId": "87da816c-f552-4371-bc3e-6b2b7f55f2d6",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "ui:expanded",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "equation",
+            "type": "String",
+            "value": "\u00225*14\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "-1"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      },
+      {
+        "name": "Equation",
+        "type": "MathsFunction",
+        "version": "1.0.5",
+        "originId": "78c904a6-3974-60e4-6ba6-fbfdcb0a645e",
+        "actionId": "5f5bbd7f-305e-4408-8508-00509d981699",
+        "actionDefinitionActionId": "87da816c-f552-4371-bc3e-6b2b7f55f2d6",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "equation",
+            "type": "String",
+            "value": "\u00225\u002B3\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "-1"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      },
+      {
+        "name": "Equation",
+        "type": "MathsFunction",
+        "version": "1.0.5",
+        "originId": "78c904a6-3974-60e4-6ba6-fbfdcb0a645e",
+        "actionId": "56f5f6bf-9e90-4d32-a830-4f4381141b45",
+        "actionDefinitionActionId": "87da816c-f552-4371-bc3e-6b2b7f55f2d6",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "equation",
+            "type": "String",
+            "value": "\u00229*2\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "-1"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      },
+      {
+        "name": "Close Browser",
+        "type": "BrowserClose",
+        "version": "1.0.2",
+        "originId": "f1df50d4-872e-90bf-77c6-6547fa481be4",
+        "actionId": "0fb6798a-981a-46f5-81b3-aa40c7438845",
+        "actionDefinitionActionId": "0d947388-14f6-4af5-af16-0db65d8fccac",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "browserAlias",
+            "type": "String",
+            "value": "\u0022swag\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "continueWithoutWait",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
           }
         ],
         "actions": [],
@@ -132,7 +464,7 @@
     "outputMappings": [],
     "metaData": [],
     "deleted": false,
-    "activityServiceType": "Stateless",
+    "activityServiceType": "Gui",
     "migratedToBotUuid": false,
     "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
     "resourceId": "787926af-6f30-4056-9706-ad222b5e465b",

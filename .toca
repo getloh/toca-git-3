@@ -133,5 +133,14 @@
       "path": "Activity/d09c9d25-3d27-4d4c-a692-8d5707ad9709.activity"
     }
   ],
-  "environmentMappings": []
+  "environmentMappings": [
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-Beta-Bot-0002",
+      "aliasValue": "alias:bot-Beta-Bot-0002",
+      "referencedByResourceIds": [
+        "787926af-6f30-4056-9706-ad222b5e465b"
+      ]
+    }
+  ]
 }
