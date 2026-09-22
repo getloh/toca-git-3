@@ -6,6 +6,16 @@
         "definitionId": "bfb953ad-40cf-4c63-acde-9920e8c0ff29",
         "name": "Navbar",
         "version": "0.1.1"
+      },
+      {
+        "definitionId": "c86e9279-7213-4e99-9646-c65f9c98b9ca",
+        "name": "Flex Layout",
+        "version": "0.0.6"
+      },
+      {
+        "definitionId": "04d449e8-2206-4659-8337-40c3192f2be9",
+        "name": "Button",
+        "version": "0.0.6"
       }
     ],
     "appActionsDetails": []

@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "id": "c27f4132-60af-486d-9ee4-9caa1b99dc4b",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "uuid": "c27f4132-60af-486d-9ee4-9caa1b99dc4b",
+    "description": "1",
+    "datastoreType": "Internal",
+    "datastoreParameters": [
+      {
+        "datastoreId": "c27f4132-60af-486d-9ee4-9caa1b99dc4b",
+        "uuid": "01a0c38b-f738-7113-8299-ab10c1159d56",
+        "key": "fileDrive",
+        "type": "FilesLocator",
+        "value": "{\u0022type\u0022:\u0022ObjectStore\u0022}",
+        "revision": "01a0c38b-f738-7114-bb0b-d548caf1378c"
+      }
+    ],
+    "tables": [],
+    "tableMigrations": [],
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "c27f4132-60af-486d-9ee4-9caa1b99dc4b",
+    "name": "plonk1"
+  }
+}

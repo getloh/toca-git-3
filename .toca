@@ -23,16 +23,6 @@
       "path": "Datastore/347b9476-7e92-40fc-abab-28460249e10d.datastore"
     },
     {
-      "type": "GitAppResource",
-      "id": "6a9fc6679f7452243f3bb401",
-      "path": "App/6a9fc6679f7452243f3bb401.app"
-    },
-    {
-      "type": "GitPageResource",
-      "id": "5d0eba1b-f859-4a4e-b92b-8ae6541a88de",
-      "path": "Page/5d0eba1b-f859-4a4e-b92b-8ae6541a88de.page"
-    },
-    {
       "type": "GitPageResource",
       "id": "37c5e59e-bb2c-4af2-a502-b3d42c5933e9",
       "path": "Page/37c5e59e-bb2c-4af2-a502-b3d42c5933e9.page"
@@ -41,16 +31,6 @@
       "type": "GitTranslationResource",
       "id": "1b699d51-160b-4eee-bd75-a8a272273ee5",
       "path": "Translation/1b699d51-160b-4eee-bd75-a8a272273ee5.translation"
-    },
-    {
-      "type": "GitTranslationResource",
-      "id": "d672411a-f106-47e5-a6e6-3f31fc77c4ac",
-      "path": "Translation/d672411a-f106-47e5-a6e6-3f31fc77c4ac.translation"
-    },
-    {
-      "type": "GitTranslationResource",
-      "id": "63b6f861-e676-4c6b-8624-6311cc14f67b",
-      "path": "Translation/63b6f861-e676-4c6b-8624-6311cc14f67b.translation"
     },
     {
       "type": "GitProjectResource",
@@ -98,11 +78,6 @@
       "path": "Activity/e79dcdb5-1d37-4d98-bb32-8328cb130856.activity"
     },
     {
-      "type": "GitActivityResource",
-      "id": "1ff41fc3-b20e-4c26-a083-5afcb543a66e",
-      "path": "Activity/1ff41fc3-b20e-4c26-a083-5afcb543a66e.activity"
-    },
-    {
       "type": "GitWorkflowResource",
       "id": "7a62ca85-b4da-44a9-9c7c-aeb019b56365",
       "path": "Workflow/7a62ca85-b4da-44a9-9c7c-aeb019b56365.workflow"
@@ -113,24 +88,39 @@
       "path": "Activity/d09c9d25-3d27-4d4c-a692-8d5707ad9709.activity"
     },
     {
-      "type": "GitAppResource",
-      "id": "6aabb9d43611740b4e66a352",
-      "path": "App/6aabb9d43611740b4e66a352.app"
-    },
-    {
       "type": "GitPageResource",
       "id": "6ffaf24d-82b1-4432-a31a-cd84e6f02be7",
       "path": "Page/6ffaf24d-82b1-4432-a31a-cd84e6f02be7.page"
     },
     {
       "type": "GitPageResource",
-      "id": "996246af-77b3-4498-9dae-279f964bbeab",
-      "path": "Page/996246af-77b3-4498-9dae-279f964bbeab.page"
+      "id": "43124afd-fac7-40a9-bcac-79ffef0a7041",
+      "path": "Page/43124afd-fac7-40a9-bcac-79ffef0a7041.page"
     },
     {
       "type": "GitPageResource",
-      "id": "43124afd-fac7-40a9-bcac-79ffef0a7041",
-      "path": "Page/43124afd-fac7-40a9-bcac-79ffef0a7041.page"
+      "id": "6aabe0ca300cf6dd94d557b6",
+      "path": "Block/6aabe0ca300cf6dd94d557b6.block"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "6ab104e4300cf6dd94d559d3",
+      "path": "Block/6ab104e4300cf6dd94d559d3.block"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "6ab104fe300cf6dd94d559d5",
+      "path": "Block/6ab104fe300cf6dd94d559d5.block"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "6ab10528300cf6dd94d559d7",
+      "path": "Block/6ab10528300cf6dd94d559d7.block"
+    },
+    {
+      "type": "GitDatastoreResource",
+      "id": "c27f4132-60af-486d-9ee4-9caa1b99dc4b",
+      "path": "Datastore/c27f4132-60af-486d-9ee4-9caa1b99dc4b.datastore"
     }
   ],
   "environmentMappings": [

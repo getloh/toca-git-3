@@ -2,8 +2,6 @@
   "metadata": {
     "id": "d672411a-f106-47e5-a6e6-3f31fc77c4ac",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-09-08T08:25:40Z",
-    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -99,6 +97,12 @@
         "values": {
           "en": "Finibus non iaculis platea dis hendrerit. Per hac urna hac leo phasellus fames tincidunt. Est habitasse potenti pellentesque duis; pretium in fames ad pellentesque. ",
           "fr": "Finibus non iaculis platea dis hendrerit. Pour hac urna hac leo phasellus fames tincidunt. Il habitait puissants pellentesque duis; pretium in fames ad pellentesque."
+        }
+      },
+      "button_VseS_label": {
+        "updated": "2026-09-21T10:48:55Z",
+        "values": {
+          "en": "Button Text"
         }
       }
     },

@@ -2,8 +2,6 @@
   "metadata": {
     "id": "6a9fc6679f7452243f3bb401",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-09-08T08:25:11Z",
-    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -75,6 +73,14 @@
         "entityId": "347b9476-7e92-40fc-abab-28460249e10d",
         "type": "datastore",
         "meta": {
+          "datastoreType": "Internal"
+        }
+      },
+      {
+        "entityId": "c27f4132-60af-486d-9ee4-9caa1b99dc4b",
+        "type": "datastore",
+        "meta": {
+          "projectId": null,
           "datastoreType": "Internal"
         }
       }
@@ -186,6 +192,11 @@
           "tableId": "63b6f861-e676-4c6b-8624-6311cc14f67b",
           "entityType": "Page",
           "entityId": "37c5e59e-bb2c-4af2-a502-b3d42c5933e9"
+        },
+        {
+          "tableId": "64281d12-33b0-4349-b5ab-aa78280d6211",
+          "entityType": "Page",
+          "entityId": "9f73e2e4-77f3-4a14-82fc-3dee024d83b7"
         }
       ]
     },

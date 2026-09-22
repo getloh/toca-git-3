@@ -2,8 +2,6 @@
   "metadata": {
     "id": "63b6f861-e676-4c6b-8624-6311cc14f67b",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-09-08T08:25:41Z",
-    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -11,63 +9,73 @@
     "appId": "6a9fc6679f7452243f3bb401",
     "translations": {
       "text_oMqT_value_0": {
-        "updated": "2026-09-08T08:25:39Z",
+        "updated": "2026-09-21T10:46:00Z",
         "values": {
-          "en": "My Account"
+          "en": "My Account",
+          "fr": ""
         }
       },
       "text_oTWZ_value_0_0": {
-        "updated": "2026-09-08T08:25:39Z",
+        "updated": "2026-09-21T10:46:00Z",
         "values": {
-          "en": "Groups: "
+          "en": "Groups: ",
+          "fr": ""
         }
       },
       "show_Advanced_Button_label_[0]": {
-        "updated": "2026-09-08T08:25:39Z",
+        "updated": "2026-09-21T10:46:00Z",
         "values": {
-          "en": "Show Advanced"
+          "en": "Show Advanced",
+          "fr": ""
         }
       },
       "text_kVFZ_value_0_0": {
-        "updated": "2026-09-08T08:25:39Z",
+        "updated": "2026-09-21T10:46:00Z",
         "values": {
-          "en": "User ID: "
+          "en": "User ID: ",
+          "fr": ""
         }
       },
       "text_kVFZ_value_1_0": {
-        "updated": "2026-09-08T08:25:39Z",
+        "updated": "2026-09-21T10:46:00Z",
         "values": {
-          "en": "Name: "
+          "en": "Name: ",
+          "fr": ""
         }
       },
       "text_sPlL_value_0": {
-        "updated": "2026-09-08T08:25:39Z",
+        "updated": "2026-09-21T10:46:01Z",
         "values": {
-          "en": "Reset Password"
+          "en": "Reset Password",
+          "fr": ""
         }
       },
       "text Field_xbqa_label_[0]": {
-        "updated": "2026-09-08T08:25:39Z",
+        "updated": "2026-09-21T10:46:01Z",
         "values": {
-          "en": "Old Password"
+          "en": "Old Password",
+          "fr": ""
         }
       },
       "text Field_pSuT_label_[0]": {
-        "updated": "2026-09-08T08:25:39Z",
+        "updated": "2026-09-21T10:46:01Z",
         "values": {
-          "en": "New Password"
+          "en": "New Password",
+          "fr": ""
         }
       },
       "text Field_gDCP_label_[0]": {
-        "updated": "2026-09-08T08:25:39Z",
+        "updated": "2026-09-21T10:46:01Z",
         "values": {
-          "en": "Confirm New Password"
+          "en": "Confirm New Password",
+          "fr": ""
         }
       },
       "submit Button_VsSX_label_[0]": {
-        "updated": "2026-09-08T08:25:39Z",
+        "updated": "2026-09-21T10:46:01Z",
         "values": {
-          "en": "Change Password"
+          "en": "Change Password",
+          "fr": ""
         }
       }
     },

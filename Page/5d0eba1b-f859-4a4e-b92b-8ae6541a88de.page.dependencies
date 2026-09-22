@@ -21,6 +21,16 @@
         "definitionId": "04d449e8-2206-4659-8337-40c3192f2be9",
         "name": "Button",
         "version": "0.0.6"
+      },
+      {
+        "definitionId": "c86e9279-7213-4e99-9646-c65f9c98b9ca",
+        "name": "Flex Layout",
+        "version": "0.0.6"
+      },
+      {
+        "definitionId": "f82f88a1-c82f-42a9-a9b4-69c63a4e7fc9",
+        "name": "Carousel",
+        "version": "1.0.0"
       }
     ],
     "appActionsDetails": []

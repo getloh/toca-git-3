@@ -18,9 +18,19 @@
         "version": "0.0.9"
       },
       {
-        "definitionId": "8d07b4ba-8ef8-44be-b24b-4b5d1fcb70bf",
+        "definitionId": "fdf8474a-270e-4421-9bba-55e5cde5ad45",
         "name": "Date and Time picker",
-        "version": "1.0.2"
+        "version": "1.0.4"
+      },
+      {
+        "definitionId": "df924544-6d23-4452-ae52-b129d50660f6",
+        "name": "Date and Time picker",
+        "version": "1.0.3"
+      },
+      {
+        "definitionId": "04d449e8-2206-4659-8337-40c3192f2be9",
+        "name": "Button",
+        "version": "0.0.6"
       }
     ],
     "appActionsDetails": []

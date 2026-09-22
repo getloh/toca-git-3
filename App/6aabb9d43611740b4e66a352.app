@@ -110,10 +110,10 @@
         "type": "light",
         "mode": "light",
         "primary": {
-          "main": "#3f51b5"
+          "main": "#a0070a"
         },
         "secondary": {
-          "main": "#e91e63"
+          "main": "#47873c"
         },
         "error": {
           "main": "#d32f2f"
@@ -143,8 +143,25 @@
       },
       "typography": {
         "fontFamily": "\u0022Inter var\u0022, system-ui, -apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, Roboto, \u0022Helvetica Neue\u0022, Arial, \u0022Noto Sans\u0022, sans-serif, \u0022Apple Color Emoji\u0022, \u0022Segoe UI Emoji\u0022, \u0022Segoe UI Symbol\u0022, \u0022Noto Color Emoji\u0022",
-        "fontSize": 14
+        "fontSize": 14,
+        "fonts": [
+          {
+            "type": "system",
+            "name": "Courier New"
+          },
+          {
+            "type": "google",
+            "name": "Poppins",
+            "weights": [
+              "700",
+              "600",
+              "500"
+            ],
+            "hidden": true
+          }
+        ]
       },
+      "viewportMode": "snap",
       "breakpoints": {
         "xs": 414,
         "sm": 768,

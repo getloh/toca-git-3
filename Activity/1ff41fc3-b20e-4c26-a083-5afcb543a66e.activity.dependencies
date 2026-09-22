@@ -1,6 +1,17 @@
 {
   "dependencies": {
-    "actionDetails": [],
+    "actionDetails": [
+      {
+        "definitionId": "4afc0589-d3bf-49d3-80e3-240be2146dcf",
+        "name": "Delay",
+        "version": "1.0.1"
+      },
+      {
+        "definitionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "name": "Debug Value",
+        "version": "1.0.2"
+      }
+    ],
     "componentDetails": [],
     "appActionsDetails": []
   }

@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "id": "64281d12-33b0-4349-b5ab-aa78280d6211",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "translationId": "64281d12-33b0-4349-b5ab-aa78280d6211",
+    "appId": "6a9fc6679f7452243f3bb401",
+    "translations": {
+      "text_XZqO_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Ticket status"
+        }
+      },
+      "text_XZqO_value_1": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "To get this dashboard functioning, configure the chart with your data, and add datachips to the stats panels, amending the text to your scenario"
+        }
+      },
+      "text_KjZL_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Status overview"
+        }
+      },
+      "text_ITQd_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Ticket count over time"
+        }
+      },
+      "num1_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "128"
+        }
+      },
+      "txt1_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Triaged"
+        }
+      },
+      "num2_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "93"
+        }
+      },
+      "txt2_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Closed"
+        }
+      },
+      "num3_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "14"
+        }
+      },
+      "txt3_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "On Hold"
+        }
+      },
+      "num4_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "15"
+        }
+      },
+      "txt4_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Being worked"
+        }
+      },
+      "num5_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "8"
+        }
+      },
+      "txt5_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Blocked"
+        }
+      },
+      "button_sitt_label_[0]": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Last 30 days"
+        }
+      },
+      "text_zekF_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Get in touch"
+        }
+      },
+      "text_zekF_value_1": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Over the phone, over an email, or in person, whatever works for you"
+        }
+      },
+      "text_raFy_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Email"
+        }
+      },
+      "text_kQRY_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "info (at) mycompany.com"
+        }
+      },
+      "text_raFy_2_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Phone"
+        }
+      },
+      "text_kQRY_2_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "0201 123 4567"
+        }
+      },
+      "text_raFy_2_4_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Office"
+        }
+      },
+      "text_kQRY_2_4_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "28 Snake way, Reading, UK, RG21 XYZ"
+        }
+      },
+      "text_WQKV_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Our email address is manned 24/7"
+        }
+      },
+      "text_OTHx_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Please make an appointment first"
+        }
+      },
+      "text_PxeR_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Available 9-5 on weekdays"
+        }
+      },
+      "text_raFy_2_4_6_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Email"
+        }
+      },
+      "text_raFy_2_4_6_value_1": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Our email address is manned 24/7"
+        }
+      },
+      "text_kQRY_2_4_6_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "info@mycompany.com"
+        }
+      },
+      "text_raFy_2_4_6_8_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Office"
+        }
+      },
+      "text_raFy_2_4_6_8_value_1": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Please make an appointment first"
+        }
+      },
+      "text_kQRY_2_4_6_8_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "28 Snake way, Reading, UK, RG21 XYZ"
+        }
+      },
+      "text_raFy_2_4_6_8_10_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Phone"
+        }
+      },
+      "text_raFy_2_4_6_8_10_value_1": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Available 9-5 on weekdays"
+        }
+      },
+      "text_kQRY_2_4_6_8_10_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "0201 123 4567"
+        }
+      },
+      "text_zekF_2_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Contact us"
+        }
+      },
+      "text_zekF_2_value_1": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "We\u0027ve love to hear from you"
+        }
+      },
+      "text_zekF_2_value_2": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Feedback accepted, complaints addressed, kudos welcome"
+        }
+      },
+      "text_raFy_2_4_6_8_10_12_value_0": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Live Chat"
+        }
+      },
+      "text_raFy_2_4_6_8_10_12_value_1": {
+        "updated": "2026-09-21T10:48:56Z",
+        "values": {
+          "en": "Available 9-5 on weekdays"
+        }
+      }
+    },
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "64281d12-33b0-4349-b5ab-aa78280d6211",
+    "name": "onepage"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "id": "6ab10528300cf6dd94d559d7",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "blockId": "6ab10528300cf6dd94d559d7",
+    "appId": "6a9fc6679f7452243f3bb401",
+    "blueprint": {
+      "version": "2",
+      "rootComponentId": "f6bca075-7f16-40d7-ac03-d7e4d55a9d85",
+      "components": {
+        "f6bca075-7f16-40d7-ac03-d7e4d55a9d85": {
+          "id": "f6bca075-7f16-40d7-ac03-d7e4d55a9d85",
+          "name": "Text_HsNI",
+          "definitionId": "10ed2773-e7bc-4432-8aec-7f948357c438",
+          "slots": {},
+          "options": {
+            "value": {
+              "model": "{\u0022blocks\u0022:[{\u0022key\u0022:\u00225ff08\u0022,\u0022text\u0022:\u0022Text_HsNI_value_0\u0022,\u0022type\u0022:\u0022header-five\u0022,\u0022depth\u0022:0,\u0022inlineStyleRanges\u0022:[],\u0022entityRanges\u0022:[{\u0022offset\u0022:0,\u0022length\u0022:17,\u0022key\u0022:0}],\u0022data\u0022:{}},{\u0022key\u0022:\u00222tpo8\u0022,\u0022text\u0022:\u0022Text_HsNI_value_1\u0022,\u0022type\u0022:\u0022unstyled\u0022,\u0022depth\u0022:0,\u0022inlineStyleRanges\u0022:[],\u0022entityRanges\u0022:[{\u0022offset\u0022:0,\u0022length\u0022:17,\u0022key\u0022:1}],\u0022data\u0022:{}}],\u0022entityMap\u0022:{\u00220\u0022:{\u0022type\u0022:\u0022DATACHIP\u0022,\u0022mutability\u0022:\u0022IMMUTABLE\u0022,\u0022data\u0022:{\u0022datachip\u0022:{\u0022type\u0022:\u0022Translation\u0022,\u0022translationTable\u0022:\u0022d672411a-f106-47e5-a6e6-3f31fc77c4ac\u0022,\u0022key\u0022:\u0022Text_HsNI_value_0\u0022}}},\u00221\u0022:{\u0022type\u0022:\u0022DATACHIP\u0022,\u0022mutability\u0022:\u0022IMMUTABLE\u0022,\u0022data\u0022:{\u0022datachip\u0022:{\u0022type\u0022:\u0022Translation\u0022,\u0022translationTable\u0022:\u0022d672411a-f106-47e5-a6e6-3f31fc77c4ac\u0022,\u0022key\u0022:\u0022Text_HsNI_value_1\u0022}}}}}",
+              "fonts": []
+            },
+            "maxWidth": "",
+            "minWidth": "",
+            "palette": {
+              "name": "toca",
+              "colours": [
+                "#ffffff",
+                "#dcdcdc",
+                "#bbbbbb",
+                "#707070",
+                "#e91e63",
+                "#470e3b",
+                "#ad1457",
+                "#682e40",
+                "#880e4f",
+                "#1565C0",
+                "#6a1b9a",
+                "#551046"
+              ]
+            },
+            "eventListenerName": "f6bca075-7f16-40d7-ac03-d7e4d55a9d85_setValue"
+          },
+          "slotProps": {},
+          "classes": {
+            "root": []
+          }
+        }
+      },
+      "viewports": {
+        "414": [],
+        "768": [],
+        "1280": [],
+        "1440": []
+      }
+    },
+    "inputs": [],
+    "deleted": false,
+    "global": false,
+    "migratedToGlobalComponents": true,
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "6ab10528300cf6dd94d559d7",
+    "name": "wweq"
+  }
+}

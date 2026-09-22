@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "id": "6ab104fe300cf6dd94d559d5",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "blockId": "6ab104fe300cf6dd94d559d5",
+    "appId": "6a9fc6679f7452243f3bb401",
+    "blueprint": {
+      "version": "2",
+      "rootComponentId": "609c87e5-8dfc-46e5-8b0f-29b9b7fc4f39",
+      "components": {
+        "609c87e5-8dfc-46e5-8b0f-29b9b7fc4f39": {
+          "id": "609c87e5-8dfc-46e5-8b0f-29b9b7fc4f39",
+          "definitionId": "@tocabot/app/page-root",
+          "options": {},
+          "slots": {
+            "root": []
+          },
+          "classes": {
+            "root": []
+          }
+        }
+      },
+      "viewports": {
+        "414": [],
+        "768": [],
+        "1280": [],
+        "1440": []
+      }
+    },
+    "inputs": [],
+    "deleted": false,
+    "global": false,
+    "migratedToGlobalComponents": true,
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "6ab104fe300cf6dd94d559d5",
+    "name": "wwww"
+  }
+}
