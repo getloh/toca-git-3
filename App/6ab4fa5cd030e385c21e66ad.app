@@ -66,6 +66,44 @@
         "hidden": false,
         "restricted": false,
         "parameters": []
+      },
+      {
+        "id": "cac28205-e5db-4352-816b-ab1edd0ea673",
+        "pageId": "6abb93f35e7d7fcc85a1b6e8",
+        "pageEntityId": "55221681-1e69-4212-a1ce-df3b0b22330c",
+        "slug": "oiuyiouyiu",
+        "name": "oiuyiouyiu",
+        "hidden": false,
+        "restricted": true,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
+          }
+        ]
       }
     ],
     "dependencies": [
