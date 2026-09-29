@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "id": "d476a7e9-f1ba-476b-bf57-74dc2b924fb8",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "listenerId": "d476a7e9-f1ba-476b-bf57-74dc2b924fb8",
+    "version": "",
+    "public": true,
+    "description": "1",
+    "apiKeys": [],
+    "inputs": [
+      {
+        "key": "number",
+        "type": "number",
+        "value": 0
+      }
+    ],
+    "workflowId": "7a62ca85-b4da-44a9-9c7c-aeb019b56365",
+    "deactivated": false,
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "d476a7e9-f1ba-476b-bf57-74dc2b924fb8",
+    "name": "startOmlette"
+  }
+}

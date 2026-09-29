@@ -2,8 +2,6 @@
   "metadata": {
     "id": "347b9476-7e92-40fc-abab-28460249e10d",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-09-08T08:23:41Z",
-    "createdBy": "68bb0382-0769-481d-9d9d-c3babc3388f4",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -34,6 +32,14 @@
         "type": "String",
         "value": "one",
         "revision": "01a0910a-341d-7647-b30f-752b98063c9d"
+      },
+      {
+        "datastoreId": "347b9476-7e92-40fc-abab-28460249e10d",
+        "uuid": "01a0cd71-5ec9-71ee-8f97-c0c1bbf6f3bc",
+        "key": "view1",
+        "type": "View",
+        "value": "{\u0022uuid\u0022:\u0022ba2e2a51-66f2-4c29-bba7-6dae19b02d01\u0022,\u0022query\u0022:null,\u0022name\u0022:\u0022view1\u0022,\u0022tableId\u0022:\u002201a0801e-45ce-70fc-ab3b-38d894d6c479\u0022,\u0022joins\u0022:null,\u0022groupBy\u0022:null,\u0022having\u0022:null,\u0022datastoreId\u0022:\u0022347b9476-7e92-40fc-abab-28460249e10d\u0022,\u0022datastoreParameterId\u0022:\u002201a0cd71-5ec9-71ee-8f97-c0c1bbf6f3bc\u0022,\u0022columns\u0022:[{\u0022id\u0022:\u002201a0801e-45ce-70fc-ab3b-38d894d6c479.id\u0022,\u0022name\u0022:\u0022customers_10000_id\u0022,\u0022label\u0022:\u0022Id\u0022},{\u0022id\u0022:\u002201a0801e-45ce-70fc-ab3b-38d894d6c479.index\u0022,\u0022name\u0022:\u0022index\u0022,\u0022label\u0022:\u0022Index\u0022},{\u0022id\u0022:\u002201a0801e-45ce-70fc-ab3b-38d894d6c479.customer_Id\u0022,\u0022name\u0022:\u0022customer_Id\u0022,\u0022label\u0022:\u0022Customer Id\u0022},{\u0022id\u0022:\u002201a0801e-45ce-70fc-ab3b-38d894d6c479.first_Name\u0022,\u0022name\u0022:\u0022first_Name\u0022,\u0022label\u0022:\u0022First Name\u0022},{\u0022id\u0022:\u002201a0801e-45ce-70fc-ab3b-38d894d6c479.last_Name\u0022,\u0022name\u0022:\u0022last_Name\u0022,\u0022label\u0022:\u0022Last Name\u0022},{\u0022id\u0022:\u002201a0801e-45ce-70fc-ab3b-38d894d6c479.company\u0022,\u0022name\u0022:\u0022company\u0022,\u0022label\u0022:\u0022Company\u0022},{\u0022id\u0022:\u002201a0801e-45ce-70fc-ab3b-38d894d6c479.city\u0022,\u0022name\u0022:\u0022city\u0022,\u0022label\u0022:\u0022City\u0022},{\u0022id\u0022:\u002201a0801e-45ce-70fc-ab3b-38d894d6c479.country\u0022,\u0022name\u0022:\u0022country\u0022,\u0022label\u0022:\u0022Country\u0022}],\u0022workspaceId\u0022:\u002234c3fa8f-86e1-437d-8adc-dcb85ecd113b\u0022,\u0022branch\u0022:\u0022main\u0022,\u0022tableIds\u0022:[\u002201a0801e-45ce-70fc-ab3b-38d894d6c479\u0022]}",
+        "revision": "01a0cd71-5f0b-7366-89e2-15a145417305"
       }
     ],
     "tables": [

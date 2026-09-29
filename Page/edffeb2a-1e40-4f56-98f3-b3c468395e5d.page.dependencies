@@ -1,0 +1,79 @@
+{
+  "dependencies": {
+    "actionDetails": [],
+    "componentDetails": [
+      {
+        "definitionId": "09e81fb3-2102-4f65-94f9-b710ce98facf",
+        "name": "Flex Layout",
+        "version": "0.0.5"
+      },
+      {
+        "definitionId": "f216e14a-dc5a-49fd-bf7e-a8dec9b18b66",
+        "name": "Paper",
+        "version": "0.0.4"
+      },
+      {
+        "definitionId": "503baa9f-7d16-4115-9265-b59576aa1d6f",
+        "name": "Text",
+        "version": "0.0.6"
+      },
+      {
+        "definitionId": "cd76f25c-687a-46c8-b2d7-5bd323b64545",
+        "name": "Image",
+        "version": "0.0.6"
+      },
+      {
+        "definitionId": "82ce0ff7-4aa8-45ee-8483-0a0d52d343b3",
+        "name": "Text",
+        "version": "0.0.5"
+      },
+      {
+        "definitionId": "d1a05031-2152-49be-8cc3-96a4dac06299",
+        "name": "Button",
+        "version": "0.0.4"
+      },
+      {
+        "definitionId": "de8f3ce2-6c0d-41a8-96d5-67058555e0ce",
+        "name": "Transition",
+        "version": "0.0.2"
+      },
+      {
+        "definitionId": "55275662-edbf-4fad-9116-2dcfaf9e1d04",
+        "name": "Form Layout",
+        "version": "1.0.18"
+      },
+      {
+        "definitionId": "0d94b001-1d4a-4402-b17c-30679aaea575",
+        "name": "Text Field",
+        "version": "0.0.7"
+      },
+      {
+        "definitionId": "a1b5e976-531f-446d-9914-6615d6723d2d",
+        "name": "Submit Button",
+        "version": "0.0.3"
+      }
+    ],
+    "appActionsDetails": [
+      {
+        "definitionId": "61721138-937c-4c86-8139-16a25e534583",
+        "name": "Get In Page Value",
+        "version": "1.1.2"
+      },
+      {
+        "definitionId": "cbaeab10-733a-4889-a397-5c92e3849162",
+        "name": "Trigger Event Listener",
+        "version": "0.0.2"
+      },
+      {
+        "definitionId": "3eafce57-25bc-4d9d-af4a-0d622cf4d83d",
+        "name": "Set Component Property",
+        "version": "0.0.2"
+      },
+      {
+        "definitionId": "3fd837b9-083d-43c4-9288-f9db31fb3866",
+        "name": "Set In Page Value",
+        "version": "1.0.3"
+      }
+    ]
+  }
+}

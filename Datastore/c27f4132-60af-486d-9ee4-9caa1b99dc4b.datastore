@@ -16,12 +16,189 @@
         "type": "FilesLocator",
         "value": "{\u0022type\u0022:\u0022ObjectStore\u0022}",
         "revision": "01a0c38b-f738-7114-bb0b-d548caf1378c"
+      },
+      {
+        "datastoreId": "c27f4132-60af-486d-9ee4-9caa1b99dc4b",
+        "uuid": "01a0cd9a-aef0-7339-ae41-5f3b691264cd",
+        "key": "sacrificial",
+        "type": "TableV3",
+        "value": "01a0cd9a-aef0-7339-ae41-5f3b691264cd",
+        "revision": "01a0cda5-2b06-76f8-82b1-bca5fb153104"
+      },
+      {
+        "datastoreId": "c27f4132-60af-486d-9ee4-9caa1b99dc4b",
+        "uuid": "01a0cdca-87b3-7538-88aa-37ddf90afe42",
+        "key": "wwww",
+        "type": "View",
+        "value": "{\u0022uuid\u0022:\u0022dde85524-689d-4982-a3ce-ff0e648022be\u0022,\u0022query\u0022:null,\u0022name\u0022:\u0022wwww\u0022,\u0022tableId\u0022:\u002201a0cd9a-aef0-7339-ae41-5f3b691264cd\u0022,\u0022joins\u0022:null,\u0022groupBy\u0022:null,\u0022having\u0022:null,\u0022datastoreId\u0022:\u0022c27f4132-60af-486d-9ee4-9caa1b99dc4b\u0022,\u0022datastoreParameterId\u0022:\u002201a0cdca-87b3-7538-88aa-37ddf90afe42\u0022,\u0022columns\u0022:[{\u0022id\u0022:\u002201a0cd9a-aef0-7339-ae41-5f3b691264cd.id\u0022,\u0022name\u0022:\u0022sacrificial_id\u0022,\u0022label\u0022:\u0022sacrificial id\u0022},{\u0022id\u0022:\u002201a0cd9a-aef0-7339-ae41-5f3b691264cd.created\u0022,\u0022name\u0022:\u0022created\u0022,\u0022label\u0022:\u0022Created\u0022},{\u0022id\u0022:\u002201a0cd9a-aef0-7339-ae41-5f3b691264cd.updated\u0022,\u0022name\u0022:\u0022updated\u0022,\u0022label\u0022:\u0022Updated\u0022},{\u0022id\u0022:\u002201a0cd9a-aef0-7339-ae41-5f3b691264cd.qqqq\u0022,\u0022name\u0022:\u0022qqqq\u0022,\u0022label\u0022:\u0022qqqq\u0022},{\u0022id\u0022:\u002201a0cd9a-aef0-7339-ae41-5f3b691264cd.wwwwww\u0022,\u0022name\u0022:\u0022wwwwww\u0022,\u0022label\u0022:\u0022wwwwww\u0022},{\u0022id\u0022:\u002201a0cd9a-aef0-7339-ae41-5f3b691264cd.badsbabd\u0022,\u0022name\u0022:\u0022badsbabd\u0022,\u0022label\u0022:\u0022badsbabd\u0022}],\u0022workspaceId\u0022:\u002234c3fa8f-86e1-437d-8adc-dcb85ecd113b\u0022,\u0022branch\u0022:\u0022main\u0022,\u0022tableIds\u0022:[\u002201a0cd9a-aef0-7339-ae41-5f3b691264cd\u0022]}",
+        "revision": "01a0cdca-87d6-7396-b2fd-c7abbe0e0677"
       }
     ],
-    "tables": [],
-    "tableMigrations": [],
+    "tables": [
+      {
+        "id": "01a0cd9a-aef0-7339-ae41-5f3b691264cd",
+        "name": "sacrificial",
+        "datastoreParameterId": "01a0cd9a-aef0-7339-ae41-5f3b691264cd",
+        "model": {
+          "id": {
+            "name": "id",
+            "label": "id",
+            "type": "uuid",
+            "isPrimaryKey": true,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": true,
+              "dataType": "Uuid"
+            }
+          },
+          "created": {
+            "name": "created",
+            "label": "Created",
+            "type": "datetime",
+            "isPrimaryKey": false,
+            "metaData": {
+              "autoGenerate": true
+            },
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false,
+              "dataType": "DateTime"
+            }
+          },
+          "updated": {
+            "name": "updated",
+            "label": "Updated",
+            "type": "datetime",
+            "isPrimaryKey": false,
+            "metaData": {
+              "autoGenerate": true,
+              "autoUpdate": true
+            },
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false,
+              "dataType": "DateTime"
+            }
+          },
+          "qqqq": {
+            "name": "qqqq",
+            "label": "qqqq",
+            "type": "string",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false,
+              "dataType": "Text"
+            }
+          },
+          "wwwwww": {
+            "name": "wwwwww",
+            "label": "wwwwww",
+            "type": "number",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false,
+              "dataType": "Double"
+            }
+          },
+          "badsbabd": {
+            "name": "badsbabd",
+            "label": "badsbabd",
+            "type": "string",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false,
+              "dataType": "Text"
+            }
+          }
+        },
+        "relationships": [],
+        "selectQuery": "SELECT c.\u0060badsbabd\u0060 AS \u0027c.badsbabd\u0027,c.\u0060created\u0060 AS \u0027c.created\u0027,c.\u0060id\u0060 AS \u0027c.id\u0027,c.\u0060qqqq\u0060 AS \u0027c.qqqq\u0027,c.\u0060updated\u0060 AS \u0027c.updated\u0027,c.\u0060wwwwww\u0060 AS \u0027c.wwwwww\u0027 FROM \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060 c",
+        "nonRecursiveSelectQuery": "SELECT c.* FROM \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060 c ",
+        "indexes": [
+          {
+            "name": "PRIMARY",
+            "columns": {
+              "id": "Ascending"
+            },
+            "unique": true,
+            "type": "BTree"
+          },
+          {
+            "name": "www",
+            "columns": {
+              "qqqq": "Ascending"
+            },
+            "unique": false,
+            "type": "BTree"
+          },
+          {
+            "name": "zxzc",
+            "columns": {
+              "updated": "Ascending"
+            },
+            "unique": false,
+            "type": "BTree"
+          }
+        ],
+        "position": [
+          27,
+          39
+        ],
+        "revision": "01a0cda5-2b06-76f8-82b1-bca5fb153104"
+      }
+    ],
+    "tableMigrations": [
+      {
+        "revisionId": "01a0cd9b-ff40-73c2-8e67-03c0af026709",
+        "tableName": "01a0cd9a-aef0-7339-ae41-5f3b691264cd",
+        "created": "2026-09-23T09:32:27Z",
+        "upSql": "ALTER TABLE \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060 ADD COLUMN IF NOT EXISTS \u0060qqqq\u0060 TEXT CHARACTER SET utf8mb4 NULL;\n",
+        "upFriendlyName": "Add column \u0060qqqq\u0060 to table \u0060sacrificial\u0060",
+        "downSql": "ALTER TABLE \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060 DROP COLUMN IF EXISTS \u0060qqqq\u0060;",
+        "downFriendlyName": "Drop column \u0060qqqq\u0060 from table \u0060sacrificial\u0060"
+      },
+      {
+        "revisionId": "01a0cd9c-35ab-7249-a565-9ac3b22cf926",
+        "tableName": "01a0cd9a-aef0-7339-ae41-5f3b691264cd",
+        "created": "2026-09-23T09:32:41Z",
+        "upSql": "CREATE INDEX IF NOT EXISTS  \u0060www\u0060 ON \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060 (qqqq ASC) USING HASH;",
+        "upFriendlyName": "Add index \u0060www\u0060 to table \u0060sacrificial\u0060",
+        "downSql": "DROP INDEX IF EXISTS \u0060www\u0060 ON \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060",
+        "downFriendlyName": "Drop index \u0060www\u0060 from table \u0060sacrificial\u0060"
+      },
+      {
+        "revisionId": "01a0cd9e-3f7e-74a4-a03e-945e70b8ecee",
+        "tableName": "01a0cd9a-aef0-7339-ae41-5f3b691264cd",
+        "created": "2026-09-23T09:34:55Z",
+        "upSql": "ALTER TABLE \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060 ADD COLUMN IF NOT EXISTS \u0060wwwwww\u0060 DOUBLE NULL;\n",
+        "upFriendlyName": "Add column \u0060wwwwww\u0060 to table \u0060sacrificial\u0060",
+        "downSql": "ALTER TABLE \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060 DROP COLUMN IF EXISTS \u0060wwwwww\u0060;",
+        "downFriendlyName": "Drop column \u0060wwwwww\u0060 from table \u0060sacrificial\u0060"
+      },
+      {
+        "revisionId": "01a0cda5-10cc-774a-b102-8ba63718a52f",
+        "tableName": "01a0cd9a-aef0-7339-ae41-5f3b691264cd",
+        "created": "2026-09-23T09:42:22Z",
+        "upSql": "CREATE INDEX IF NOT EXISTS  \u0060zxzc\u0060 ON \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060 (updated ASC) USING HASH;",
+        "upFriendlyName": "Add index \u0060zxzc\u0060 to table \u0060sacrificial\u0060",
+        "downSql": "DROP INDEX IF EXISTS \u0060zxzc\u0060 ON \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060",
+        "downFriendlyName": "Drop index \u0060zxzc\u0060 from table \u0060sacrificial\u0060"
+      },
+      {
+        "revisionId": "01a0cda5-2b06-76f8-82b1-bca5fb153104",
+        "tableName": "01a0cd9a-aef0-7339-ae41-5f3b691264cd",
+        "created": "2026-09-23T09:42:28Z",
+        "upSql": "ALTER TABLE \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060 ADD COLUMN IF NOT EXISTS \u0060badsbabd\u0060 TEXT CHARACTER SET utf8mb4 NULL;\n",
+        "upFriendlyName": "Add column \u0060badsbabd\u0060 to table \u0060sacrificial\u0060",
+        "downSql": "ALTER TABLE \u006001a0cd9a-aef0-7339-ae41-5f3b691264cd\u0060 DROP COLUMN IF EXISTS \u0060badsbabd\u0060;",
+        "downFriendlyName": "Drop column \u0060badsbabd\u0060 from table \u0060sacrificial\u0060"
+      }
+    ],
     "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
     "resourceId": "c27f4132-60af-486d-9ee4-9caa1b99dc4b",
-    "name": "plonk1"
+    "name": "plonky"
   }
 }

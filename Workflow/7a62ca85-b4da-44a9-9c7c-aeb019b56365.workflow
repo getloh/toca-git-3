@@ -2,8 +2,6 @@
   "metadata": {
     "id": "7a62ca85-b4da-44a9-9c7c-aeb019b56365",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-09-11T15:15:20Z",
-    "createdBy": "2488c130-1567-4cdb-b950-fc7d8ead9001",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -17,7 +15,7 @@
         "category": "Start",
         "text": "",
         "key": 1,
-        "loc": "700 300",
+        "loc": "250 300",
         "parameters": [
           {
             "key": "Description",
@@ -38,20 +36,90 @@
             "value": ""
           }
         ]
+      },
+      {
+        "category": "Exclusive",
+        "text": "",
+        "key": 3,
+        "loc": "600 300",
+        "parameters": [
+          {
+            "key": "Description",
+            "type": "string",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "category": "Activity",
+        "text": "hip hop",
+        "key": 4,
+        "loc": "900 475",
+        "parameters": [
+          {
+            "key": "ActivityId",
+            "type": "string",
+            "value": "787926af-6f30-4056-9706-ad222b5e465b"
+          },
+          {
+            "key": "Description",
+            "type": "string",
+            "value": "hip hop"
+          },
+          {
+            "key": "FailOnError",
+            "type": "boolean",
+            "value": false
+          }
+        ]
+      },
+      {
+        "category": "End",
+        "text": "",
+        "key": 5,
+        "loc": "1200 475",
+        "parameters": [
+          {
+            "key": "Description",
+            "type": "string",
+            "value": ""
+          }
+        ]
       }
     ],
     "linkDataArray": [
       {
         "from": 1,
+        "to": 3,
+        "linkData": {
+          "path": [
+            [
+              12.5,
+              13
+            ],
+            [
+              18,
+              13
+            ],
+            [
+              23.5,
+              13
+            ]
+          ],
+          "labelPart": 1
+        }
+      },
+      {
+        "from": 3,
         "to": 2,
         "linkData": {
           "path": [
             [
-              30.5,
+              26.5,
               13
             ],
             [
-              39,
+              37,
               13
             ],
             [
@@ -61,17 +129,63 @@
           ],
           "labelPart": 1
         }
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "linkData": {
+          "path": [
+            [
+              26.5,
+              13
+            ],
+            [
+              31,
+              13
+            ],
+            [
+              31,
+              20
+            ],
+            [
+              35.5,
+              20
+            ]
+          ],
+          "labelPart": 1
+        }
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "linkData": {
+          "path": [
+            [
+              38.5,
+              20
+            ],
+            [
+              43,
+              20
+            ],
+            [
+              47.5,
+              20
+            ]
+          ],
+          "labelPart": 1
+        }
       }
     ],
     "workflow": [
       {
         "Type": "Start",
-        "id": "9fa446ea-b7aa-49a8-8be9-660f36e915af",
+        "id": "344e8558-79fc-422a-9bd8-b8b05b41a79b",
         "name": "",
         "description": "",
         "pointers": [
           {
-            "pointsTo": "cd27e740-3d8e-4b52-8658-5d79b16a9dbf",
+            "pointsTo": "158a6784-cbdd-498d-861f-3375ee13efdb",
             "expression": ""
           }
         ],
@@ -86,7 +200,77 @@
       },
       {
         "Type": "End",
-        "id": "cd27e740-3d8e-4b52-8658-5d79b16a9dbf",
+        "id": "f508c7a1-5911-434a-b545-c58997af6e62",
+        "name": "",
+        "description": "",
+        "pointers": [],
+        "parameters": [
+          {
+            "key": "Description",
+            "type": "string",
+            "value": ""
+          }
+        ],
+        "status": 0
+      },
+      {
+        "Type": "Exclusive",
+        "id": "158a6784-cbdd-498d-861f-3375ee13efdb",
+        "name": "",
+        "description": "",
+        "pointers": [
+          {
+            "pointsTo": "f508c7a1-5911-434a-b545-c58997af6e62",
+            "expression": "$$number$$==0"
+          },
+          {
+            "pointsTo": "df9eb507-330d-4639-93bd-454b753802ce",
+            "expression": "$$number$$==1"
+          }
+        ],
+        "parameters": [
+          {
+            "key": "Description",
+            "type": "string",
+            "value": ""
+          }
+        ],
+        "status": 0
+      },
+      {
+        "Type": "Activity",
+        "id": "df9eb507-330d-4639-93bd-454b753802ce",
+        "name": "hip hop",
+        "description": "hip hop",
+        "pointers": [
+          {
+            "pointsTo": "da2ac7c1-7e8d-4878-a456-739ffab8b540",
+            "expression": ""
+          }
+        ],
+        "parameters": [
+          {
+            "key": "ActivityId",
+            "type": "string",
+            "value": "787926af-6f30-4056-9706-ad222b5e465b"
+          },
+          {
+            "key": "Description",
+            "type": "string",
+            "value": "hip hop"
+          },
+          {
+            "key": "FailOnError",
+            "type": "boolean",
+            "value": false
+          }
+        ],
+        "status": 0,
+        "activityId": "787926af-6f30-4056-9706-ad222b5e465b"
+      },
+      {
+        "Type": "End",
+        "id": "da2ac7c1-7e8d-4878-a456-739ffab8b540",
         "name": "",
         "description": "",
         "pointers": [],
