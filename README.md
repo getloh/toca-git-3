@@ -15,6 +15,7 @@ You can think of a workspace as a way to group your projects and resources toget
 - :docs-action[Create an automation project]{ type="CreateAutomation"}
 - :docs-action[Create a datastore]{ type="CreateDatastore"}
 
+- amend the readme
 
 ## Version control
 
