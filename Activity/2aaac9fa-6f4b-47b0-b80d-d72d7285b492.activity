@@ -9,7 +9,43 @@
     "description": "2",
     "botIds": [],
     "version": 1,
-    "actions": [],
+    "actions": [
+      {
+        "name": "Delay",
+        "type": "Delay",
+        "version": "1.0.1",
+        "originId": "f36d9bfd-bccd-353d-b9a3-e634d9ecba37",
+        "actionId": "b9563806-5b4c-44e5-b0b2-c9f608e3f298",
+        "actionDefinitionActionId": "4afc0589-d3bf-49d3-80e3-240be2146dcf",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "delay",
+            "type": "Number",
+            "value": "4"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      }
+    ],
     "variableMappings": [],
     "outputMappings": [],
     "metaData": [],
