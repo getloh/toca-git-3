@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "id": "2107a300-9c1e-410c-893a-78614a60791b",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "3aacca6b-3bf3-4e73-9af6-24143587baf1",
+    "jobName": "omlette1sch",
+    "jobId": "2107a300-9c1e-410c-893a-78614a60791b",
+    "workflowId": "7a62ca85-b4da-44a9-9c7c-aeb019b56365",
+    "jobArgs": [],
+    "startDateTime": "0001-01-01T00:00:00Z",
+    "oneOffDateTime": "2026-10-08T08:45:11Z",
+    "unitOfInterval": 0,
+    "interval": 1,
+    "enabled": true,
+    "deactivated": false,
+    "workspaceId": "34c3fa8f-86e1-437d-8adc-dcb85ecd113b",
+    "resourceId": "2107a300-9c1e-410c-893a-78614a60791b",
+    "name": "omlette1sch"
+  }
+}
